@@ -3,10 +3,10 @@
 </h1>
 
 <div>
-  <a href="https://github.com/RichardCourtesy">
+  <a href="https://github.com/RichardAlves4">
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardCourtesy&show_icons=true&theme=neon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardCourtesy&layout=compact&theme=neon">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardAlves4&show_icons=true&theme=neon">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardAlves4&layout=compact&theme=neon">
   </p>
 </div>
 
