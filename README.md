@@ -12,7 +12,7 @@
 
 ##
 
-### Meus Poderes 🔥⚡:
+### My skills:
 <div>
   <img width="40px" alt="RichardCourtesy-HTML-Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
   <img width="40px" alt="RichardCourtesy-CSS-Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
