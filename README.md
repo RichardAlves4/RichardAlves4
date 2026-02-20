@@ -2,13 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4200&lines=Olá,+meu+nome+é+Richard+Alves+da+Silva!;Sou+desenvolvedor+FullStack+😎+🤓;" />
 </h1>
 
-<div>
-  <a href="https://github.com/RichardAlves4">
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardAlves4&show_icons=true&theme=neon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardAlves4&layout=compact&theme=neon">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RichardAlves4&show_icons=true&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RichardAlves4&layout=compact&theme=tokyonight">
   </p>
-</div>
 
 ##
 
